@@ -30,3 +30,4 @@ C:\Users\Tanulo\source\repos\AuthApi\Weatherforecast1\obj\Debug\net8.0\refint\We
 C:\Users\Tanulo\source\repos\AuthApi\Weatherforecast1\obj\Debug\net8.0\Weatherforecast1.pdb
 C:\Users\Tanulo\source\repos\AuthApi\Weatherforecast1\obj\Debug\net8.0\Weatherforecast1.genruntimeconfig.cache
 C:\Users\Tanulo\source\repos\AuthApi\Weatherforecast1\obj\Debug\net8.0\ref\Weatherforecast1.dll
+C:\Users\Tanulo\source\repos\AuthApi\Weatherforecast1\obj\Debug\net8.0\Weatherforecast1.sourcelink.json
