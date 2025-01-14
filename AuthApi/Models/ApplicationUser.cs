@@ -4,7 +4,7 @@ namespace AuthApi.Models
 {
     public class ApplicationUser : IdentityUser
     {
-        public string? Fullname {  get; set; }
+        public string ? Fullname {  get; set; }
         public DateTime BirthDate { get; set; }
 
     }
